@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Ka-Laung (ကလောင်) - Your Digital Sister",
+  "description": "A warm, witty, and highly capable digital sister and personal assistant for အစ်ကို MinThitSarAung.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
